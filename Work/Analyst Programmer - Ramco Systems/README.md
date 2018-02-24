@@ -66,6 +66,14 @@ Period: May, 2016 to Present
 
     The project has been completed but yet to be productionized.
 
+5. GraphQL Implementation
+
+    Worked on doing a proof of concept of a GraphQL implementation interacting with multiple data sources (a cache - Apache Geode, a database - MSSQL, a public api) in Node.js
+
+6. IVR & Voice Recognition with Twilio & Wit.ai
+
+    Worked on an IVR implementation for various verticals in the organization where the caller interacts with the system through either voice or keypad in their phones to get data from the relevant database realtime. For speech, the text is extracted with twilio, sent to wit.ai for Natural language processing, intent is extracted and used to respond appropriately.
+
 ### My initiatives @ Ramco
 
 1. Started [Ramco Nuthouse](https://thenuthouse.github.io), a meetup session for everyone to promote knowledge sharing between peers and promote innovation.
