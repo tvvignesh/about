@@ -1,9 +1,14 @@
 ## Ramco Systems Pvt. Ltd.
 
-Role: Analyst Programmer (HCM LABS & NGT)
+<b>Period:</b> May, 2016 to Present
 
+## Role: 
 
-Period: May, 2016 to Present
+<b>Apr, 2018 - Present:</b> Systems Analyst (NGT)
+
+<b>Nov, 2016 - Mar, 2018:</b> Analyst Programmer (NGT)
+
+<b>May, 2016 - Nov, 2017:</b> Analyst Programmer (HCM LABS)
 
 ### My Activities @ HCM LABS, Ramco
 
@@ -70,13 +75,31 @@ Period: May, 2016 to Present
 
     Worked on doing a proof of concept of a GraphQL implementation interacting with multiple data sources (a cache - Apache Geode, a database - MSSQL, a public api) in Node.js
 
+    The project has been completed but yet to be productionized.
+
 6. IVR & Voice Recognition with Twilio & Wit.ai
 
     Worked on an IVR implementation for various verticals in the organization where the caller interacts with the system through either voice or keypad in their phones to get data from the relevant database realtime. For speech, the text is extracted with twilio, sent to wit.ai for Natural language processing, intent is extracted and used to respond appropriately.
 
+    The project has been completed and internal roll-out was done.
+
 7. Central Notification Server
 
     Made a central notification server which can be used to make calls, send sms, send push notifications, send emails, call webhooks and pass data all through a single API.
+
+    The project has been completed and being used for lot of projects as a dependency.
+
+8. Tag Engine
+
+    Made a tagging and search infrastructure using Node.js and Elasticsearch and allowed query through UI, SMS and E-mail to get the relevant info when searched for tags. 
+    
+    [Try the Search Engine](https://alpha.ramco.com/search.html)
+
+9. Microsoft Flow & CDS
+
+    Coordinated with the team and did a POC on ways to use Microsoft Flow to pull/push data to Microsoft Common Data Service to/from an organizational API. 
+
+    The POC was completed and feedback was given to the product team.
 
 
 ### My initiatives @ Ramco
