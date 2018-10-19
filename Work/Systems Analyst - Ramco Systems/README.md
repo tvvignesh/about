@@ -101,6 +101,22 @@
 
     The POC was completed and feedback was given to the product team.
 
+10. Discrepancy Reporting (Machine Learning)
+
+    Implemented an ability to report discrepancies with aircrafts and engines for MRO where repetitive discrepancies are ranked higher. Sentence similarity is used to identify repetitive discrepancies and they are clustered together. When reporting the discrepancy, the suggested corrective action is also auto-filled.
+
+11. Monitoring, Alerting & Management
+
+    Implemented monitoring of the various infrastructure components and projects in the organization using Prometheus, Grafana and Catchet and alerting with Push notifications, SMS, Call, etc. In addition to this, the ability to control and manage the server was also implemented when a failure occurs.
+
+12. Autocodification for Aviation & Finance (Machine Learning)
+
+    Implemented autofilling of fields based on the history data using Machine Learning for invoices in Aviation and Finance SBUs. Support vector Machines and clustering was used to get this done using Multi-label classification. The solution was implemented using a combination of Node.js and C.
+
+13. Microservices Platform
+
+    Implemented a Microservices Platform for the organization to use with orchestration, containers, Event Sourcing, etc.
+
 
 ### My initiatives @ Ramco
 
@@ -111,4 +127,4 @@
 
 
 <br><br>
-Apart from doing developmental activities @ Ramco, I was also involved in end to end process in the project lifecycles from ideation to delivery & support.
+Apart from doing developmental activities @ Ramco, I was also involved in the end to end process in the project lifecycles from ideation to delivery & support.
