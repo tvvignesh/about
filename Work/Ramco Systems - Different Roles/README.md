@@ -1,10 +1,14 @@
 ## Ramco Systems Pvt. Ltd.
 
-<b>Period:</b> May, 2016 to Present
+<b>Period:</b> May, 2016 to Mar, 2020
 
 ## Role: 
 
-<b>Apr, 2018 - Present:</b> Systems Analyst (NGT)
+<b>Nov, 2019 - Mar, 2020:</b> External Consultant
+
+<b>May, 2019 - Oct, 2019:</b> Senior Systems Analyst (NGT)
+
+<b>Apr, 2018 - May, 2019:</b> Systems Analyst (NGT)
 
 <b>Nov, 2016 - Mar, 2018:</b> Analyst Programmer (NGT)
 
@@ -116,6 +120,14 @@
 13. Microservices Platform
 
     Implemented a Microservices Platform for the organization to use with orchestration, containers, Event Sourcing, etc.
+
+14. Machine Learning Platform
+
+    Lead the development of the Machine Learning Platform for the organization to automate the entire cycle of Machine Learning from ETL to Prediction
+
+15. DevOps Platform
+
+    Lead the development of the DevOps platform for the organization to make packaging and shipping code easy to production
 
 
 ### My initiatives @ Ramco
